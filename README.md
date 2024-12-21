@@ -90,9 +90,3 @@ port: 5000
 ### Expected Behavior:
 - Accessing `http://0.0.0.0:5000/files/text` will return the contents of `sample.txt`.
 - Accessing `http://0.0.0.0:5000/files/image` will return the image `sample.png`.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

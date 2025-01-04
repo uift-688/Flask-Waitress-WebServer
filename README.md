@@ -25,12 +25,12 @@ The following Python libraries are used.
 
 ---
 
-## Configuration File (`config.properties`)
+## Configuration File (`config.yml`)
 
 The `config.properties` file is used to configure the server. It follows the `key: value` format.  
 Below is an example configuration:
 
-```properties
+```yaml
 host: 127.0.0.1  # The host to bind the server to
 port: 8080       # The port to bind the server to
 
